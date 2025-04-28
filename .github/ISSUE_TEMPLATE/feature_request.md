@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: 기능 추가 이슈 템플릿
-title: "\U0001F4DD [Feat] : "
+title: "\U0001F4DD[Feat] : "
 labels: enhancement
 assignees: ''
 
