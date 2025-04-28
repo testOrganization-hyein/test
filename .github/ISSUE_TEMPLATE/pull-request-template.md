@@ -9,7 +9,7 @@ assignees: ''
 
 ## 📄 Description
 
-- 기능1 : 
+- 기능 : 
 
 > 기능에 대한 설명
 
