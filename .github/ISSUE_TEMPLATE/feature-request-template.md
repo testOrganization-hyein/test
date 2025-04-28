@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request Template
 about: 기능 추가 이슈 템플릿
 title: "\U0001F4DD[Feat] : "
 labels: enhancement
